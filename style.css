@@ -27,32 +27,16 @@ h1 {
     font-size: 3rem;
     position: relative;
     display: inline-block;
+    color: #00FFFF;
+    text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 40px #00A8DD, 0 0 80px #00A8DD;
 }
-
-    h1::after {
-        content: "";
-        position: absolute;
-        left: 0;
-        bottom: 0.2em;
-        width: 100%;
-        height: 0.4em;
-        background: #00FFFF;
-        z-index: -1;
-        transition: transform 0.3s ease;
-        transform: scaleX(0);
-        transform-origin: left;
-    }
-
-    h1:hover::after {
-        transform: scaleX(1);
-    }
-
 
 h2 {
     font-size: 2rem;
     margin-bottom: 20px;
     border-left: 4px solid #00C8FF;
     padding-left: 10px;
+    text-shadow: 0 0 10px #00F5F5, 0 0 20px #00F5F5, 0 0 40px #00A8DD, 0 0 80px #00A8DD;
 }
 
 h3 {
@@ -172,8 +156,8 @@ iframe {
 ========================= */
 .btn-github {
     display: inline-flex;
-    align-items: center;
     justify-content: center;
+    align-items: center;
     gap: 0.6em;
     padding: 0.7em 1.2em;
     color: #000;
