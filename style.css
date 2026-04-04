@@ -146,6 +146,44 @@ iframe {
     margin-top: 15px;
 }
 
+.btn-github {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6em;
+    padding: 0.7em 1.2em;
+    color: #000;
+    text-decoration: none;
+    border-radius: 0.4em;
+    font-weight: 600;
+    background: linear-gradient(120deg, #00FFFF, #00A8DD, #00FFFF);
+    background-size: 300% 300%;
+    animation: waveGradient 4s ease infinite;
+}
+
+    .btn-github img {
+        width: 1.3em;
+        height: 1.3em;
+        filter: invert(1);
+    }
+
+@keyframes waveGradient {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    25% {
+        background-position: 100% 50%;
+    }
+
+    50% {
+        background-position: -100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
 /* =========================
    LINKS (BUTTON STYLE)
 ========================= */
