@@ -285,3 +285,27 @@ footer {
         background-position: 0% 50%;
     }
 }
+
+.separator-animated-project{
+    height: 3px;
+    width: 55%;
+    margin: 30px auto;
+    background: linear-gradient(90deg, #00FFFF, #00A8DD, #00FFFF);
+    background-size: 300% 300%;
+    animation: waveLine 4s ease infinite;
+    border-radius: 3px;
+}
+
+@keyframes waveLine {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    50% {
+        background-position: 100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
