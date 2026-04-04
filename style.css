@@ -29,7 +29,7 @@ h1 {
 h2 {
     font-size: 2rem;
     margin-bottom: 20px;
-    border-left: 4px solid #22c55e;
+    border-left: 4px solid #00C8FF;
     padding-left: 10px;
 }
 
@@ -38,7 +38,7 @@ h3 {
 }
 
 h4 {
-    color: #22c55e;
+    color: #00C8FF;
     margin-bottom: 10px;
 }
 
@@ -78,7 +78,7 @@ nav {
     }
 
         nav a:hover {
-            color: #22c55e;
+            color: #00C8FF;
         }
 
 /* =========================
@@ -105,7 +105,7 @@ section {
     /* Hover effect (gaming glow) */
     .card:hover {
         transform: translateY(-5px);
-        border: 1px solid #22c55e;
+        border: 1px solid #00C8FF;
         box-shadow: 0 0 25px rgba(34, 197, 94, 0.3);
     }
 
@@ -132,7 +132,7 @@ iframe {
     display: inline-block;
     margin-top: 15px;
     padding: 10px 15px;
-    background: #22c55e;
+    background: #00C8FF;
     color: black;
     text-decoration: none;
     font-weight: bold;
