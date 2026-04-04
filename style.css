@@ -23,21 +23,40 @@ h1, h2, h3 {
     letter-spacing: 1px;
 }
 
-h1 {
+/*h1 {
     font-size: 3rem;
     position: relative;
     display: inline-block;
     color: #00FFFF;
     text-shadow: 0 0 10px #00FFFF, 0 0 20px #00FFFF, 0 0 40px #00A8DD, 0 0 80px #00A8DD;
+}*/
+
+h1 {
+    font-size: 3rem;
+    position: relative;
+    display: inline-block;
+    color: #00FFFF;
+    text-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF, 0 0 60px #00A8DD, 0 0 120px #00A8DD;
 }
+
+
+/*h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    border-left: 4px solid #00C8FF;
+    padding-left: 10px;
+    text-shadow: 0 0 10px #00F5F5, 0 0 20px #00F5F5, 0 0 40px #00A8DD, 0 0 80px #00A8DD;
+}*/
 
 h2 {
     font-size: 2rem;
     margin-bottom: 20px;
     border-left: 4px solid #00C8FF;
     padding-left: 10px;
-    text-shadow: 0 0 10px #00F5F5, 0 0 20px #00F5F5, 0 0 40px #00A8DD, 0 0 80px #00A8DD;
+    color: #00FFFF;
+    text-shadow: 0 0 12px #00FFFF, 0 0 25px #00FFFF, 0 0 50px #00A8DD;
 }
+
 
 h3 {
     margin-bottom: 5px;
