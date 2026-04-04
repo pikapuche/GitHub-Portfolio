@@ -1,0 +1,35 @@
+﻿# --- OS files ---
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# --- Editor / IDE ---
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains (WebStorm, PhpStorm…)
+.idea/
+
+# --- Logs ---
+*.log
+
+# --- Node (si jamais tu ajoutes un pipeline ou un bundler plus tard) ---
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- Build / Cache (si tu ajoutes un outil type Sass, PostCSS, etc.) ---
+dist/
+build/
+.cache/
