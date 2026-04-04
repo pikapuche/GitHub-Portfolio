@@ -147,24 +147,6 @@ iframe {
     margin-top: 15px;
 }
 
-@keyframes waveGradient {
-    0% {
-        background-position: 0% 50%;
-    }
-
-    25% {
-        background-position: 100% 50%;
-    }
-
-    50% {
-        background-position: -100% 50%;
-    }
-
-    100% {
-        background-position: 0% 50%;
-    }
-}
-
 /* =========================
    LINKS (BUTTON STYLE)
 ========================= */
@@ -191,6 +173,7 @@ iframe {
 .btn-github {
     display: inline-flex;
     align-items: center;
+    justify-content: center;
     gap: 0.6em;
     padding: 0.7em 1.2em;
     color: #000;
@@ -207,6 +190,24 @@ iframe {
         height: 1.3em;
         filter: invert(1);
     }
+
+@keyframes waveGradient {
+    0% {
+        background-position: 0% 50%;
+    }
+
+    25% {
+        background-position: 100% 50%;
+    }
+
+    50% {
+        background-position: -100% 50%;
+    }
+
+    100% {
+        background-position: 0% 50%;
+    }
+}
 
 /* =========================
    AUDIO SECTION
