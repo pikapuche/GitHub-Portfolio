@@ -204,6 +204,27 @@ iframe {
         background: #16a34a;
     }
 
+    .card a:not(.btn-github):hover {
+        background: #16a34a;
+    }
+
+    .card a.btn-github {
+        all: unset; /* supprime les styles hérités */
+        display: inline-flex;
+        align-items: center;
+        gap: 0.6em;
+        padding: 0.7em 1.2em;
+        background: linear-gradient(120deg, #00FFFF, #00A8DD, #00FFFF);
+        background-size: 300% 300%;
+        animation: waveGradient 4s ease infinite;
+        color: #000;
+        border-radius: 0.4em;
+        font-weight: 600;
+        cursor: pointer;
+    }
+
+
+
 /* =========================
    AUDIO SECTION
 ========================= */
