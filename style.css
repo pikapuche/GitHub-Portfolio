@@ -349,14 +349,14 @@ footer {
 
     /* Items du dropdown */
     .dropdown-content li a {
-        padding: 10px 20px;
+        padding: 1px 30px;
         transition: background 0.2s;
         white-space: nowrap;
         color: #e2e8f0;
     }
 
         .dropdown-content li a:hover {
-            background: rgba(0, 255, 255, 0.15); /* léger cyan, cohérent avec ton style */
+            background: rgba(0, 255, 255, 0.25); /* léger cyan, cohérent avec ton style */
         }
 
 /* Affichage au survol */
