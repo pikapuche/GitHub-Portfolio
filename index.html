@@ -22,8 +22,22 @@
 
     <nav>
         <a href="#about">About</a>
-        <a href="#projects-first-year">First Year</a>
-        <a href="#projects-second-year">Second Year</a>
+        <a href="#projects-first-year" class="dropdown-btn">First Year</a>
+        <ul class="dropdown-content">
+            <li><a href="#sywar">SYWAR, THE QUEST OF JAAJ</a></li>
+            <li><a href="#zaun">ZAUN, BATTLE OF NATIONS</a></li>
+            <li><a href="#zeldo">ZELDO, THE GUARDIA DEVENTURE</a></li>
+            <li><a href="#kathos">KATHOS</a></li>
+        </ul>
+        <a href="#projects-second-year" class="dropdown-btn">Second Year</a>
+        <ul class="dropdown-content">
+            <li><a href="#mathlib">Maths Static Library</a></li>
+            <li><a href="#pink">THE PINK PARADOX</a></li>
+            <li><a href="#blender">Blender Initiation</a></li>
+            <li><a href="#arena">Arena Shooter (UE 5.6)</a></li>
+            <li><a href="#multi">Multiplayer Project (UE 5.6)</a></li>
+            <li><a href="#engine">Custom C++ Engine</a></li>
+        </ul>
         <a href="#music">Audio</a>
         <a href="#contact">Contact</a>
     </nav>
@@ -47,7 +61,7 @@
     <section id="projects-first-year">
         <h2>First Year Projects</h2>
 
-        <div class="card">
+        <div class="card" id="sywar">
             <h3>SYWAR, THE QUEST OF JAAJ</h3>
             <p><strong>Tech:</strong> C++, SFML</p>
 
@@ -66,7 +80,7 @@
 
         <div class="separator-animated-project"></div>
 
-        <div class="card">
+        <div class="card" id="zaun">
             <h3>ZAUN, BATTLE OF NATIONS</h3>
             <p><strong>Tech:</strong> C++, SFML</p>
 
@@ -85,7 +99,7 @@
 
         <div class="separator-animated-project"></div>
 
-        <div class="card">
+        <div class="card" id="zeldo">
             <h3>ZELDO, THE GUARDIA DEVENTURE</h3>
 
             <p>Team project focused on player systems.</p>
@@ -102,7 +116,7 @@
 
         <div class="separator-animated-project"></div>
 
-        <div class="card">
+        <div class="card" id="kathos">
             <h3>KATHOS</h3>
 
             <p>Large team project with Tech Lead role.</p>
@@ -127,14 +141,14 @@
     <section id="projects-second-year">
         <h2>Second Year Projects</h2>
 
-        <div class="card">
+        <div class="card" id="mathlib">
             <h3>Maths Static Library</h3>
             <p>Custom C++ math library for engine programming.</p>
         </div>
 
         <div class="separator-animated-project"></div>
 
-        <div class="card">
+        <div class="card" id="pink">
             <h3>THE PINK PARADOX</h3>
 
             <p>Runner game focused on player physics and 3C.</p>
@@ -154,7 +168,7 @@
 
         <div class="separator-animated-project"></div>
 
-        <div class="card">
+        <div class="card" id="blender">
             <h3>Blender Initiation</h3>
 
             <p>Learning 3D basics for better collaboration with artists.</p>
@@ -162,7 +176,7 @@
 
         <div class="separator-animated-project"></div>
 
-        <div class="card">
+        <div class="card" id="arena">
             <h3>Unreal Engine Arena Shooter</h3>
             <p>Large-scale team project with UE5.</p>
             <a href="https://github.com/" class="btn-github">
@@ -173,7 +187,7 @@
 
         <div class="separator-animated-project"></div>
 
-        <div class="card">
+        <div class="card" id="multi">
             <h3>Multiplayer UE Project</h3>
             <p>Networking and replication systems.</p>
             <a href="https://github.com/" class="btn-github">
@@ -184,7 +198,7 @@
 
         <div class="separator-animated-project"></div>
 
-        <div class="card">
+        <div class="card" id="engine">
             <h3>Custom C++ Engine</h3>
             <p>Real-time engine programming.</p>
             <a href="https://github.com/" class="btn-github">
