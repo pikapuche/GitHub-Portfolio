@@ -336,13 +336,13 @@ footer {
 /* Dropdown caché par défaut */
 .dropdown-content {
     position: absolute;
-    top: 40px;
+    top: 100%;
     left: 0;
     background: #111;
     border-radius: 6px;
     list-style: none;
     padding: 10px 0;
-    min-width: 160px;
+    min-width: max-content;
     display: none;
     box-shadow: 0 4px 12px rgba(0,0,0,0.3);
 }
@@ -351,6 +351,8 @@ footer {
     .dropdown-content li a {
         padding: 10px 20px;
         transition: background 0.2s;
+        white-space: nowrap;
+        color: #e2e8f0;
     }
 
         .dropdown-content li a:hover {
