@@ -153,11 +153,11 @@ section {
 /* =========================
    MEDIA (IMAGES & VIDEO)
 ========================= */
-img {
-    width: 100%;
-    border-radius: 10px;
-    margin-top: 10px;
-}
+    .card img {
+        width: 100%;
+        border-radius: 10px;
+        margin-top: 10px;
+    }
 
 iframe {
     width: 100%;
@@ -308,7 +308,7 @@ footer {
 
 .separator-animated-project{
     height: 3px;
-    width: 80%;
+    width: 200%;
     margin: 30px auto;
     background: linear-gradient(90deg, #00FFFF, #00A8DD, #00FFFF);
     background-size: 300% 300%;
