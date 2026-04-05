@@ -35,7 +35,7 @@ h1 {
     font-size: 3rem;
     position: relative;
     display: inline-block;
-    color: #00FFFF;
+    color: #FFFFFF;
     text-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF, 0 0 60px #00A8DD, 0 0 120px #00A8DD;
 }
 
@@ -60,6 +60,7 @@ h2 {
 
 h3 {
     margin-bottom: 5px;
+    text-shadow: 0 0 12px #00FFFF, 0 0 25px #00FFFF, 0 0 50px #00A8DD;
 }
 
 h4 {
