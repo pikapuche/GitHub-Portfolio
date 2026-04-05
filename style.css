@@ -82,6 +82,21 @@ header {
     }
 
 /* =========================
+   MENU
+========================= */
+
+.menu {
+    display: flex;
+    gap: 25px; /* espace entre les items */
+    list-style: none; /* retire les puces */
+    align-items: center;
+}
+
+    .menu li {
+        position: relative; /* nécessaire pour positionner le dropdown */
+    }
+
+/* =========================
    NAVBAR
 ========================= */
 nav {
@@ -346,3 +361,4 @@ footer {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
