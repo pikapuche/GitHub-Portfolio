@@ -314,3 +314,35 @@ footer {
         background-position: 0% 50%;
     }
 }
+
+/* =========================
+   DROPDOWN LIST
+========================= */
+/* Dropdown caché par défaut */
+.dropdown-content {
+    position: absolute;
+    top: 40px;
+    left: 0;
+    background: #111;
+    border-radius: 6px;
+    list-style: none;
+    padding: 10px 0;
+    min-width: 160px;
+    display: none;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+    /* Items du dropdown */
+    .dropdown-content li a {
+        padding: 10px 20px;
+        transition: background 0.2s;
+    }
+
+        .dropdown-content li a:hover {
+            background: rgba(0, 255, 255, 0.15); /* léger cyan, cohérent avec ton style */
+        }
+
+/* Affichage au survol */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
