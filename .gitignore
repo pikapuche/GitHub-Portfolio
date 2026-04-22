@@ -14,6 +14,7 @@ Desktop.ini
 
 # --- Editor / IDE ---
 # VS Code
+.vs/
 .vscode/
 *.code-workspace
 
