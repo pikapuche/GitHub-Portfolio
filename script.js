@@ -10,7 +10,8 @@ function setLanguage(lang) {
                     el.innerHTML = data[key];
                 }
             });
-        });
+        })
+        .catch(err => console.error("Erreur de chargement langue :", err));
 }
 
 document.addEventListener("DOMContentLoaded", () => {
