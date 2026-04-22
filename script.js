@@ -13,7 +13,6 @@ function setLanguage(lang) {
         });
 }
 
-// Charger la langue sauvegardée au démarrage
 document.addEventListener("DOMContentLoaded", () => {
     const savedLang = localStorage.getItem("lang") || "en";
     setLanguage(savedLang);
