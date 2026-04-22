@@ -1,0 +1,13 @@
+{
+    "header.name": "Quentin Lopes",
+    "header.subtitle": "Développeur de Jeux • Unreal Engine • C++ • Sound Designer",
+
+    "menu.about": "À propos",
+    "menu.firstYear": "Première Année",
+    "menu.secondYear": "Deuxième Année",
+    "menu.audio": "Audio",
+    "menu.contact": "Contact",
+
+    "about.title": "À propos de moi",
+    "about.text": "Étudiant en développement de jeux spécialisé en programmation, avec un fort intérêt pour le C++ et Unreal Engine. Passionné par les systèmes de gameplay, l’architecture moteur et l’optimisation des performances. Je compose également de la musique et fais du sound design."
+}
