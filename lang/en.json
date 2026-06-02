@@ -9,5 +9,30 @@
     "menu.contact": "Contact",
 
     "about.title": "About Me",
-    "about.text": "Game Development student specialized in programming, with a strong focus on C++ and Unreal Engine. Interested in gameplay systems, engine architecture, and performance optimization. I also work on music composition and sound design."
+    "about.text": "Game Development student specialized in programming, with a strong focus on C++ and Unreal Engine. I am particularly interested in gameplay systems, engine architecture, and performance optimization. I also work on music composition and sound design, as I believe audio plays a critical role in player experience. I enjoy understanding how systems work at a deep level, both technically and creatively. I love exploring all the possible ways to implement a function in order to determine the best option.",
+
+    "firstYear.title": "First Year Projects",
+    "firstYear.sywar.desc": "Turn-based combat system with core gameplay mechanics.",
+    "firstYear.zaun.desc": "Shoot'em up with enemy wave system and parallax.",
+    "firstYear.zeldo.desc": "Team project focused on player systems.",
+    "firstYear.kathos.desc": "Large team project with Tech Lead role.",
+
+    "btn.github": "Check the GitHub repository !",
+
+    "secondYear.title": "Second Year Projects",
+    "secondYear.mathlib.desc": "Custom C++ math library for engine programming.",
+    "secondYear.pink.desc": "Runner game focused on player physics and 3C.",
+    "secondYear.blender.desc": "Learning 3D basics for better collaboration with artists.",
+    "secondYear.arena.desc": "Large-scale team project with UE5 (G-Art & G-Tech).",
+    "secondYear.multi.desc": "Networking and replication systems.",
+    "secondYear.engine.desc": "Real-time engine programming.",
+
+    "audio.title": "Music & Sound Design",
+    "audio.track1": "Track 1",
+    "audio.track2": "Track 2",
+
+    "contact.title": "Contact",
+    "contact.email": "Email: qlopes@gaming.tech",
+
+    "footer.rights": "© 2026 Quentin Lopes"
 }
