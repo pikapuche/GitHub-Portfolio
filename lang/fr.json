@@ -16,6 +16,7 @@
   "firstYear.sywar.desc": "Système de combat tour par tour avec des zones cliquables pour choisir différentes actions à effectuer. Réaliser en C++ à l'aide de SFML en 1 semaine.",
   "firstYear.zaun.desc": "Shoot'em up avec un système de vague qui génère les ennemis de manière prédéfinie avec un combat de boss final sur le thème de Arcane - League of Legend. Réaliser C++ à l'aide de SFML en 2 semaines.",
   "firstYear.zeldo.desc": "Projet en équipe de trois pour se concentrer sur les mécaniques du joueur et de création de carte selon un fichier .txt. Réaliser en 2 semaines",
+  "firstYear.detective.desc": "Projet individuel sur moteur custom créé par Sylvain Seccia : Seccia.dev. Nous n'avions aucun artiste à disposition pour ce projet... Les décors ont donc été malheureusement générés par IA.",
   "firstYear.kathos.desc": "Large projet d'équipe en tant que Lead Tech (4 tech, 2 art et 2 business). Réaliser en C++ à l'aide de SFML en 3 semaines.",
 
   "btn.github": "Regardez le repo GitHub !",
@@ -27,11 +28,17 @@
   "secondYear.arena.desc": "Projet à grande échelle inter-classe entre les artistes et les programmeur (G-Art & G-Tech). Réaliser avec Unreal Engine 5.6 en 3 semaines.",
   "secondYear.multi.desc": "Projet découverte et application du multijoueur sur Unreal Engine 5.6 (replication) en 2 semaines.",
   "secondYear.engine.desc": "Moteur de jeu Custom en temps réel. Réaliser en C++ en 4 semaines.",
+  "secondYear.intern.desc": "Projet d'une grande envergure : MetaVerse. J'ai travaillé sur la création et la modification des véhicules dans Earniverse (Bateaux, Hoverboards et Chevaux).",
 
-  "audio.title": "Musique & Sound Design",
+  "audio.title": "Musiques",
+  "audio.desc": "Les œuvres listées ci-dessous sont mises à disposition sous la licence <br> Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) license.<br><br>Vous êtes autorisé à utiliser et à diffuser ces morceaux de musique,<br>y compris à des fins commerciales, à condition de créditer l'auteur de manière appropriée, comme suit : <br><br> Musique : Quope / Quentin LOPES<br>Source : https://pikapuche.github.io/GitHub-Portfolio/",
+  "warningAudio.desc": "!!! Toute modification, adaptation, ou creation d'un dérivé d'une musique est interdite !!!",
 
-  "contact.title": "Contact",
-  "contact.email": "quentin.lopes@orange.fr",
-
-  "footer.rights": "© 2026 Quentin Lopes"
+  "track.track1.desc": "Musique d'ambiance 1 pour Detective GC",
+  "track.track2.desc": "Musique d'ambiance 1 pour Detective GC",
+  "track.DFA.desc": "Musique d'ambiance pour un biome forestier fantastique de jour",
+  "track.NFA.desc": "Musique d'ambiance pour un biome forestier fantastique de nuit",
+  "track.MCBA.desc": "Musique d'ambiance pour un city builder medieval",
+  "track.MF.desc": "Musique de fond pour un menu Fantasy",
+  "track.WA.desc": "Musique d'ambiance pour un biome enneiger fantastique"
 }
