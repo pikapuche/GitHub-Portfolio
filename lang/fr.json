@@ -24,7 +24,7 @@
   "secondYear.title": "Projets de Deuxième Année",
   "secondYear.mathlib.desc": "Librairie de Mathématique Custom C++ en 2 semaines.",
   "secondYear.pink.desc": "Runner permettant de se concentrer sur la physique du joueur et les 3C (Character, Camera, Control). Réaliser en C++ à l'aide de SFML en 2 semaines.",
-  "secondYear.blender.desc": "Apprentissage du vocabulaire artistique et des bases de la 3D avec Blender afin de faciliter la collaboration avec les artistes. Réaliser avec Blender en 2 semaine",
+  "secondYear.blender.desc": "Apprentissage du vocabulaire artistique et des bases de la 3D avec Blender afin de faciliter la collaboration avec les artistes. Réaliser avec Blender en 2 semaines.",
   "secondYear.arena.desc": "Projet à grande échelle inter-classe entre les artistes et les programmeur (G-Art & G-Tech). Réaliser avec Unreal Engine 5.6 en 3 semaines.",
   "secondYear.multi.desc": "Projet découverte et application du multijoueur sur Unreal Engine 5.6 (replication) en 2 semaines.",
   "secondYear.engine.desc": "Moteur de jeu Custom en temps réel. Réaliser en C++ en 4 semaines.",
