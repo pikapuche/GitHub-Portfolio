@@ -84,7 +84,7 @@ h3 {
 
 .kathos-title {
     margin-bottom: 5px;
-    text-shadow: 0 0 3px #ff9900, 0 0 6px #03e016, 0 0 12px #3ad1d1;
+    text-shadow: 0 0 3px #ffc66f, 0 0 6px #03e016, 0 0 12px #3ad1d1;
 }
 
 .blender-title {
@@ -99,7 +99,7 @@ h3 {
 
 .multi-title {
     margin-bottom: 5px;
-    text-shadow: 0 0 3px #3f3f3f, 0 0 6px #af0000, 0 0 12px #FFF;
+    text-shadow: 0 0 3px #ff0000, 0 0 6px #af0000, 0 0 12px #9b4646;
 }
 
 .earniverse-title {
@@ -377,7 +377,6 @@ footer {
 /* =========================
    DROPDOWN LIST
 ========================= */
-/* Dropdown cach� par d�faut */
 .dropdown-content {
     position: absolute;
     top: 100%;
