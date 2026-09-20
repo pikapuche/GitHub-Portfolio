@@ -53,7 +53,7 @@ h2 {
     margin-bottom: 20px;
     border-left: 4px solid #00C8FF;
     padding-left: 10px;
-    color: #00FFFF;
+    color: #ffffff;
     text-shadow: 0 0 12px #00FFFF, 0 0 25px #00FFFF, 0 0 50px #00A8DD;
 }
 
@@ -64,7 +64,7 @@ h3 {
 }
 
 h4 {
-    color: #00C8FF;
+    color: #ffffff;
     margin-bottom: 10px;
 }
 
@@ -93,7 +93,7 @@ header {
 }
 
     .menu li {
-        position: relative; /* nécessaire pour positionner le dropdown */
+        position: relative; /* nï¿½cessaire pour positionner le dropdown */
     }
 
 /* =========================
@@ -333,7 +333,7 @@ footer {
 /* =========================
    DROPDOWN LIST
 ========================= */
-/* Dropdown caché par défaut */
+/* Dropdown cachï¿½ par dï¿½faut */
 .dropdown-content {
     position: absolute;
     top: 100%;
@@ -356,7 +356,7 @@ footer {
     }
 
         .dropdown-content li a:hover {
-            background: rgba(0, 255, 255, 0.25); /* léger cyan, cohérent avec ton style */
+            background: rgba(0, 255, 255, 0.25); /* lï¿½ger cyan, cohï¿½rent avec ton style */
         }
 
 /* Affichage au survol */
