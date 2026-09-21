@@ -1,4 +1,4 @@
-# GitHub-Portfolio
-Bienvenue sur mon portfolio, ici vous retrouverez toutes mes expériences et projets du Gaming Campus mais également personnels. 
+# Portfolio - Quentin LOPES
+Welcome to my portfolio. This repository showcases my projects and experiences from the Gaming Campus, along with personal work that reflects my skills, creativity, and technical growth.
 
  https://pikapuche.github.io/GitHub-Portfolio/
