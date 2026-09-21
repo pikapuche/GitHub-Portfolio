@@ -36,8 +36,9 @@ h1 {
     position: relative;
     display: inline-block;
     color: #FFFFFF;
-    text-shadow: 0 0 7px #00FFFF, 0 0 15px #00FFFF, 0 0 30px #00A8DD, 0 0 60px #00A8DD;
+    text-shadow: 0 0 1px #00FFFF, 0 0 1px #00FFFF, 0 0 3px #00A8DD, 0 0 6px #00A8DD;
 }
+/*7,15,30,60*/
 
 
 /*h2 {
