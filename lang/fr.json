@@ -28,6 +28,7 @@
   "secondYear.arena.desc": "Projet à grande échelle inter-classe entre les artistes et les programmeur (G-Art & G-Tech). Réaliser avec Unreal Engine 5.6 en 3 semaines.",
   "secondYear.multi.desc": "Projet découverte et application du multijoueur sur Unreal Engine 5.6 (replication) en 2 semaines.",
   "secondYear.engine.desc": "Moteur de jeu Custom en temps réel. Réaliser en C++ en 4 semaines.",
+  "secondYear.casino.desc": "Projet de Game Jam réalisé en 40h avec une équipe de 19 personnes (12 G-Tech et 7 G-Art) sur Unreal Engine 5.6. J'ai pris en charge le développement des armes, la composition musicale et le sound design (entièrement réalisés et enregistrer sur place), ainsi que l'organisation de l'équipe et la répartition des tâches.",
   "secondYear.intern.desc": "Projet d'une grande envergure : MetaVerse. J'ai travaillé sur la création et la modification des véhicules dans Earniverse (Bateaux, Hoverboards et Chevaux).",
 
   "audio.title": "Musiques",

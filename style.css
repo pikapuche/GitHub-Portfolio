@@ -102,6 +102,12 @@ h3 {
     text-shadow: 0 0 3px #ff0000, 0 0 6px #af0000, 0 0 12px #9b4646;
 }
 
+.casino-title {
+    margin-bottom: 5px;
+    text-shadow: 0 0 6px #ff0000, 0 0 6px #fffb00, 0 0 12px #07dd00;
+}
+
+
 .earniverse-title {
     margin-bottom: 5px;
     text-shadow: 0 0 3px #c953ff, 0 0 6px #e000c2, 0 0 12px #8c00ff;

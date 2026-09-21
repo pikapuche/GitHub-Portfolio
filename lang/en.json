@@ -28,6 +28,7 @@
   "secondYear.arena.desc": "A large‑scale collaborative project bringing together G‑Art and G‑Tech students, combining artistic and programming expertise. Developed using Unreal Engine 5.6 within a three‑week timeframe.",
   "secondYear.multi.desc": "Discovery and practical implementation of multiplayer systems in Unreal Engine 5.6, focusing on replication. Completed within two weeks.",
   "secondYear.engine.desc": "Custom Game Engine real time. Released in C++ in 4 weeks.",
+  "secondYear.casino.desc": "Game Jam project completed in 40 hours with a team of 19 members (12 G‑Tech, 7 G‑Art) using Unreal Engine 5.6. I was responsible for weapon development, music composition, and sound design (fully created and recorded on-site), as well as team organization and task distribution throughout the project.",
   "secondYear.intern.desc": "Large‑scale Metaverse project, where I contributed to the creation and customization of vehicles in Earniverse, including boats, hoverboards, and horses.",
 
   "audio.title": "Music & Sound Design",
