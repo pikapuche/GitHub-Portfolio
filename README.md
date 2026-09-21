@@ -1,2 +1,4 @@
 # GitHub-Portfolio
-Here is my repository for my portfolio github page
+Bienvenue sur mon portfolio, ici vous retrouverez toutes mes expériences et projets du Gaming Campus mais également personnels. 
+
+ https://pikapuche.github.io/GitHub-Portfolio/
