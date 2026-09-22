@@ -114,6 +114,11 @@ h3 {
     text-shadow: 0 0 3px #c953ff, 0 0 5px #e000c2;
 }
 
+.warningAudio-desc {
+    margin-bottom: 5px;
+    text-shadow: 0 0 3px #00FFFF, 0 0 5px #00FFFF;
+}
+
 h4 {
     color: #9FFFFF;
     margin-bottom: 10px;
