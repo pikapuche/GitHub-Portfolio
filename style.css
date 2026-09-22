@@ -115,6 +115,7 @@ h3 {
 }
 
 .warningAudio-desc {
+    color: #ca4d4d;
     margin-bottom: 5px;
     text-shadow: 0 0 6px #ff0000;
 }
